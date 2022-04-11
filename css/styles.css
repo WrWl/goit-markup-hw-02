@@ -158,6 +158,7 @@ color: var(--contact-color);
     color: var(--white-color);
 }
 .address{
+    font-style: normal;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
